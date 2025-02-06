@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when working with nested routes in React Router Dom v6. The problem involves child routes failing to render despite the parent route appearing correctly.  The solution involves carefully reviewing route path definitions and ensuring correct nesting structure within the Routes component.
